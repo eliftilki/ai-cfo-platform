@@ -1,0 +1,2 @@
+-- Core AI CFO schema placeholder.
+-- Main domain tables: companies, user_profiles, memberships, transactions, campaigns, alerts.

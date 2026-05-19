@@ -1,0 +1,2 @@
+-- Raw ingestion schema placeholder.
+-- Raw source records should land here before normalization into core AI CFO tables.

@@ -1,0 +1,2 @@
+-- Agent schema placeholder.
+-- Agent runs, agent outputs, decisions, simulations, and trace records belong here.

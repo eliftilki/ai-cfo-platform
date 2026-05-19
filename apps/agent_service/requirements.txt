@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+supabase
+pydantic[email]
+google-generativeai
+langchain-core
+langgraph
+python-dotenv
+pytest

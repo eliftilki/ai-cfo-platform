@@ -1,0 +1,3 @@
+-- Source database schema placeholder.
+-- The MVP currently expects operational source data to exist in Supabase `kobiDB`.
+-- Keep table definitions here when promoting the prototype schema into migrations.

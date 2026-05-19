@@ -1,0 +1,2 @@
+-- Analytics schema placeholder.
+-- Dashboard snapshots, risk scores, cashflow summaries, and derived metrics belong here.
