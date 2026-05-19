@@ -167,22 +167,6 @@ API:           http://localhost:8000/health
 Agent Service: http://localhost:8001/health
 ```
 
-## Docker
-
-```powershell
-cd C:\Users\ELIF\Desktop\project_2026\ai-cfo-platform
-docker compose up --build
-```
-
-## Test ve Kontrol
-
-```powershell
-cd C:\Users\ELIF\Desktop\project_2026\ai-cfo-platform
-python -m pytest apps/agent_service/tests
-
-cd C:\Users\ELIF\Desktop\project_2026\ai-cfo-platform\apps\web
-npm run build
-```
 
 ## Dokumantasyon
 
